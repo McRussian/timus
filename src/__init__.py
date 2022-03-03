@@ -6,3 +6,4 @@ from .task1613 import get_statist, binary_search
 
 from .task2070 import count_good_number, is_square, is_pow
 
+from .task1012 import count_K_number
